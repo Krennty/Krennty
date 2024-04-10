@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krennty
 - 👀 I’m interested in learning the ins and outs of coding and programming
-- 🌱 I’m currently learning all the basics
+- 🌱 I’m currently learning all the basics of Python, Java, C#, HTML & CSS
 - 📫 How to reach me kenny.van.teeffelen@gmail.com
 
 <!---
